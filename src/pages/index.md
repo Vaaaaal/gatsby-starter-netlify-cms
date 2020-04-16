@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Gatsby React and more..
-image: /img/jumbotron.jpg
+image: /img/malte-michels-716678-unsplash.jpg
 heading: Gatsby for all.
 subheading: React building, Gatsby training
 mainpitch:
